@@ -11,7 +11,7 @@ Dans le cas d'une suite d'épisodes, chaque épisode repart depuis l'état du pr
 
 Pour télécharger et installer le code source de l'épisode il suffit d'exécuter la commande suivante dans un terminal Bash ou Powershell depuis le dossier de destination :
 ```bash
-git clone https://github.com/inpulse-tv/ep6-LESS-is-Best.git
+git clone https://github.com/inpulse-tv/epX-LESS-on-the-Mix.git
 ```
 Puis de suivre les instructions de l'épisode sur notre chaîne [inpulse.tv](https://www.inpulse.tv).
 
