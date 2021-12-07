@@ -1,7 +1,7 @@
 # LESS on the Mix
 
 Ce dépôt contient le code source relatif à l'épisode X de notre chaîne [inpulse.tv](https://www.inpulse.tv) dédié au langage de préprocessing **LESS** :
-- ep.X - LESS on the Mix - [LESS partie.3] [1ntro] [#devtech] (Episode non disponible pour le moment)
+- LESS on the Mix - [LESS partie.3]  [1ntro]  [#devtech]  [ep.X] (Episode non disponible pour le moment)
 
 Il contient le code source permettant de réaliser et suivre le tutoriel de la vidéo.
 
